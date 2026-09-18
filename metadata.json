@@ -1,0 +1,6 @@
+{
+  "name": "Urban Brew Café",
+  "description": "Modern café in Ghaziabad serving artisanal handcrafted coffee, freshly prepared food, and a warm workspace atmosphere.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
